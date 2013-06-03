@@ -1,0 +1,10 @@
+1	Wep	16890
+2	Jose	8000
+3	Abner	2996
+4	Pepeeeee	1387
+5	Pedro	881
+6	Juan	881
+7	Carlos	881
+8	Gerardo	881
+9	Pepe	701
+10	Pepinho	500
